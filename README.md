@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on Arduino based projects
-- 📫 How to reach me  
 
 <!---
 usern4mehere9/usern4mehere9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
